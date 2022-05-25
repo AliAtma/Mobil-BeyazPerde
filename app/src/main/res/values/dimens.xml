@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="info_img_layout_width">411dp</dimen>
+    <dimen name="info_img_layout_height">170dp</dimen>
+
+    <dimen name="info_baslik_layout_width">365dp</dimen>
+    <dimen name="info_baslik_layout_height">42dp</dimen>
+    <dimen name="info_baslik_layout_marginTop">20dp</dimen>
+
+    <dimen name="info_aciklama_layout_width">360dp</dimen>
+    <dimen name="info_aciklama_layout_height">384dp</dimen>
+    <dimen name="info_aciklama_layout_marginTop">20dp</dimen>
+
+    <dimen name="main_kapak_layout_height">200dp</dimen>
+
+    <dimen name="list_cardview_layout_margin">8dp</dimen>
+
+    <dimen name="list_img_layout_width">120dp</dimen>
+    <dimen name="list_img_layout_height">120dp</dimen>
+    <dimen name="list_img_layout_marginStart">10dp</dimen>
+    <dimen name="list_img_layout_marginTop">10dp</dimen>
+    <dimen name="list_img_layout_marginBottom">10dp</dimen>
+
+    <dimen name="list_textviev_layout_marginStart">10dp</dimen>
+    <dimen name="list_textviev_layout_marginTop">10dp</dimen>
+
+    <dimen name="list_filmadi_layout_marginTop">10dp</dimen>
+
+    <dimen name="list_textviev3_layout_marginTop">10dp</dimen>
+
+    <dimen name="list_vizyontarih_layout_marginTop">10dp</dimen>
+</resources>

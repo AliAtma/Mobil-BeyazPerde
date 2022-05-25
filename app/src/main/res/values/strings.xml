@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ali_haydar_atma_final</string>
+    <string name="alertTitle">İnternet bağlantınız yok.</string>
+    <string name="alertWriting">Uygulamayı kullanmak için internete bağlayın.</string>
+    <string name="alertOff">Kapat</string>
+    <string name="alertInternetOn">Interneti Ac.</string>
+</resources>
